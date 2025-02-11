@@ -1,5 +1,5 @@
 # ictpass_menual
-![GitHub 로고]([https://ictedu.co.kr/assets/img/logo/top_logo4.png])
+![GitHub 로고](https://ictedu.co.kr/assets/img/logo/top_logo4.png)
 
 
 ## 📌 목차
