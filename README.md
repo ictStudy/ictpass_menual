@@ -1,5 +1,5 @@
 # ictpass_menual
-![GitHub 로고](['https://th.bing.com/th/id/OIP.m4f7CeKCYWJPcFdTckF1vQHaEK?w=290&h=180&c=7&r=0&o=5&pid=1.7'])
+![GitHub 로고]([https://ictedu.co.kr/assets/img/logo/top_logo4.png])
 
 
 ## 📌 목차
