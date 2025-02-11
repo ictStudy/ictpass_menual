@@ -1,5 +1,5 @@
 # ictpass_menual
-![GitHub 로고]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://avatars.githubusercontent.com/u/172481549?v=4)
+![GitHub 로고]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png])
 
 
 ## 📌 목차
